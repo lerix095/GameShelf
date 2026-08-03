@@ -1,6 +1,6 @@
 //
 //  MockData.swift
-//  P12M3L8
+//  GameShelf
 //
 //  Created by Valeriy Protsenko on 18.01.2026.
 //
