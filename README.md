@@ -1,4 +1,4 @@
-# GameShelf
+# GameShelf (iOS 26+)
 
 A gaming profile iOS app concept with a parallax hero image, 
 dynamic sticky header, and dark UI built with SwiftUI.
